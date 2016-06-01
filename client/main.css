@@ -1,0 +1,14 @@
+/* CSS declarations go here */
+body{
+    background:black;
+    color: greenyellow;
+}
+
+textarea{
+    margin: 0px;
+    width: 100%;
+    background: black;
+    color: greenyellow;
+    font-size: 28px;
+    height: 500px;
+}
